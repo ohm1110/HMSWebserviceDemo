@@ -22,10 +22,7 @@
             <td> <asp:Label ID="Label3" runat="server" Text="Password"></asp:Label></td>
              <td> <asp:TextBox ID="txtPassword" runat="server"></asp:TextBox> </td>
         </tr>
-         <tr>
-            <td> <asp:Label ID="Label4" runat="server" Text="aDDRESS"></asp:Label></td>
-             <td> <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox> </td>
-        </tr>
+        
           
           <tr>
 
